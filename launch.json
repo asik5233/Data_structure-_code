@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSA CODE/.vscode",
-      "program": "d:/DSA CODE/.vscode/build/Debug/outDebug",
+      "cwd": "d:/DSA CODE",
+      "program": "d:/DSA CODE/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
